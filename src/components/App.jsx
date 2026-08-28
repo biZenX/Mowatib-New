@@ -10,7 +10,7 @@ import { TimerView } from './timer/TimerView.jsx';
 import { StatsView } from './stats/StatsView.jsx';
 import { TrashView } from './trash/TrashView.jsx';
 import { SettingsView } from './settings/SettingsView.jsx';
-import { PaywallModal } from './paywall/PaywallModal.jsx';
+//import { PaywallModal } from './paywall/PaywallModal.jsx';
 import { AuthModal } from './auth/AuthModal.jsx';
 import { NotificationCenter, LiveNotificationToast } from './notifications/NotificationCenter.jsx';
 
