@@ -1,0 +1,19 @@
+{
+  "name": "Mowatib • مواظب | رفيق الإنتاجية والتركيز الذكي",
+  "short_name": "Mowatib",
+  "description": "Arabic-First Productivity, Tasks, Notes, Habits & Pomodoro Focus App for Students",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F9FAEF",
+  "theme_color": "#4C662B",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
